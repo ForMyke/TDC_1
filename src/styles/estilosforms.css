@@ -1,0 +1,21 @@
+.validacion-erronea {
+  background-color: #ffe4e1; /* Fondo rojo */
+  border: 50px solid #ff0000; /* Borde rojo */
+  border-width: 1px;
+  border-radius: 0.5rem; /* Bordes redondeados */
+  font-size: 16px; /* Tamaño de fuente */
+  width: 100%; /* Ancho del input */
+}
+/* estilos.css */
+.validacion-correcta {
+  background-color: #c4ffff; /* Fondo verde */
+  border: 10px solid #0303b5; /* Borde verde */
+  border-width: 1px;
+  border-radius: 0.5rem; /* Bordes redondeados */
+  font-size: 16px; /* Tamaño de fuente */
+  width: 100%; /* Ancho del input */
+}
+
+.formulario_leyenda_no {
+  display: none;
+}
